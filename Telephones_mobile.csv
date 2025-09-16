@@ -1,226 +1,226 @@
-﻿name,slug,value,date_of_information,ranking,region
-China,china,1810000000,2023,1,East and Southeast Asia
-India,india,1140000000,2022,2,South Asia
-United States,united-states,386000000,2023,3,North America
-Indonesia,indonesia,352000000,2023,4,East and Southeast Asia
-Russia,russia,245000000,2022,5,Central Asia
-Nigeria,nigeria,224000000,2023,6,Africa
-Japan,japan,219000000,2023,7,East and Southeast Asia
-Brazil,brazil,213000000,2023,8,South America
-Bangladesh,bangladesh,191000000,2023,9,South Asia
-Pakistan,pakistan,189000000,2023,10,South Asia
-Iran,iran,151000000,2023,11,Middle East
-Mexico,mexico,140000000,2023,12,North America
-Philippines,philippines,135000000,2023,13,East and Southeast Asia
-Vietnam,vietnam,131000000,2023,14,East and Southeast Asia
-Thailand,thailand,121000000,2023,15,East and Southeast Asia
-South Africa,south-africa,108000000,2023,16,Africa
-Egypt,egypt,106000000,2023,17,Africa
-Germany,germany,105000000,2023,18,Europe
-Turkey (Turkiye),turkey-turkiye,92200000,2023,19,Middle East
-Colombia,colombia,87400000,2023,20,South America
-United Kingdom,united-kingdom,84300000,2023,21,Europe
-"Korea, South",korea-south,83900000,2023,22,East and Southeast Asia
-Italy,italy,78500000,2023,23,Europe
-France,france,77400000,2023,24,Europe
-Ethiopia,ethiopia,71400000,2022,25,Africa
-Tanzania,tanzania,70200000,2023,26,Africa
-Kenya,kenya,66700000,2023,27,Africa
-Burma,burma,65500000,2023,28,East and Southeast Asia
-Argentina,argentina,62700000,2023,29,South America
-Spain,spain,61200000,2023,30,Europe
-Morocco,morocco,55900000,2023,31,Africa
-Cote d'Ivoire,cote-divoire,53600000,2023,32,Africa
-Saudi Arabia,saudi-arabia,52500000,2023,33,Middle East
-Poland,poland,52400000,2023,34,Europe
-Algeria,algeria,51500000,2023,35,Africa
-Ukraine,ukraine,50300000,2023,36,Europe
-Malaysia,malaysia,50100000,2023,37,East and Southeast Asia
-"Congo, Democratic Republic of the",congo-democratic-republic-of-the,49800000,2022,38,Africa
-Iraq,iraq,45700000,2023,39,Middle East
-Uganda,uganda,42100000,2023,40,Africa
-Peru,peru,41300000,2023,41,South America
-Nepal,nepal,38200000,2021,42,South Asia
-Uzbekistan,uzbekistan,37500000,2023,43,Central Asia
-Canada,canada,36500000,2023,44,North America
-Sudan,sudan,34700000,2022,45,Africa
-Ghana,ghana,33400000,2023,46,Africa
-Sri Lanka,sri-lanka,30000000,2023,47,South Asia
-Taiwan,taiwan,30000000,2023,48,East and Southeast Asia
-Australia,australia,29100000,2023,49,Australia and Oceania
-Chile,chile,26700000,2023,50,South America
-Cameroon,cameroon,26200000,2023,51,Africa
-Mali,mali,25900000,2022,52,Africa
-Kazakhstan,kazakhstan,25800000,2023,53,Central Asia
-Angola,angola,25700000,2023,54,Africa
-Madagascar,madagascar,25400000,2023,55,Africa
-Burkina Faso,burkina-faso,24700000,2021,56,Africa
-Hong Kong,hong-kong,23800000,2023,57,East and Southeast Asia
-Romania,romania,23200000,2022,58,Europe
-Afghanistan,afghanistan,23000000,2023,59,South Asia
-Senegal,senegal,22400000,2023,60,Africa
-Netherlands,netherlands,21200000,2023,61,Europe
-United Arab Emirates,united-arab-emirates,21200000,2023,62,Middle East
-Zambia,zambia,21200000,2023,63,Africa
-Guatemala,guatemala,20600000,2023,64,Central America and the Caribbean
-Yemen,yemen,20000000,2023,65,Middle East
-Cambodia,cambodia,19500000,2022,66,East and Southeast Asia
-Venezuela,venezuela,18800000,2022,67,South America
-Ecuador,ecuador,18200000,2023,68,South America
-Tunisia,tunisia,16400000,2023,69,Africa
-Benin,benin,16400000,2023,70,Africa
-Syria,syria,15100000,2023,71,Middle East
-Zimbabwe,zimbabwe,15000000,2023,72,Africa
-Mozambique,mozambique,15000000,2022,73,Africa
-Sweden,sweden,14800000,2023,74,Europe
-Niger,niger,14200000,2021,75,Africa
-Libya,libya,13900000,2022,76,Africa
-Guinea,guinea,13800000,2021,77,Africa
-Israel,israel,13800000,2022,78,Middle East
-Czechia,czechia,13600000,2023,79,Europe
-Malawi,malawi,12900000,2023,80,Africa
-Rwanda,rwanda,12800000,2023,81,Africa
-Portugal,portugal,12800000,2023,82,Europe
-Belgium,belgium,12100000,2023,83,Europe
-Chad,chad,12100000,2022,84,Africa
-Bolivia,bolivia,12000000,2021,85,South America
-Belarus,belarus,11800000,2023,86,Europe
-Tajikistan,tajikistan,11600000,2021,87,Central Asia
-El Salvador,el-salvador,11500000,2022,88,Central America and the Caribbean
-Greece,greece,11300000,2023,89,Europe
-Austria,austria,11100000,2023,90,Europe
-Azerbaijan,azerbaijan,11000000,2023,91,Central Asia
-Switzerland,switzerland,10900000,2023,92,Europe
-Dominican Republic,dominican-republic,10400000,2023,93,Central America and the Caribbean
-Hungary,hungary,10200000,2023,94,Europe
-Singapore,singapore,9650000,2023,95,East and Southeast Asia
-Somalia,somalia,8840000,2022,96,Africa
-Paraguay,paraguay,8670000,2023,97,South America
-Burundi,burundi,8650000,2023,98,Africa
-Serbia,serbia,8530000,2023,99,Europe
-Sierra Leone,sierra-leone,8230000,2021,100,Africa
-Kuwait,kuwait,8110000,2023,101,Middle East
-Bulgaria,bulgaria,8010000,2023,102,Europe
-Honduras,honduras,7920000,2023,103,Central America and the Caribbean
-Jordan,jordan,7730000,2023,104,Middle East
-Kyrgyzstan,kyrgyzstan,7680000,2023,105,Central Asia
-Cuba,cuba,7670000,2023,106,Central America and the Caribbean
-Slovakia,slovakia,7630000,2023,107,Europe
-Denmark,denmark,7500000,2023,108,Europe
-Costa Rica,costa-rica,7440000,2023,109,Central America and the Caribbean
-Haiti,haiti,7320000,2021,110,Central America and the Caribbean
-Nicaragua,nicaragua,7220000,2023,111,Central America and the Caribbean
-Finland,finland,7140000,2023,112,Europe
-Togo,togo,7050000,2023,113,Africa
-Panama,panama,6980000,2023,114,Central America and the Caribbean
-Oman,oman,6980000,2023,115,Middle East
-New Zealand,new-zealand,6560000,2023,116,Australia and Oceania
-Turkmenistan,turkmenistan,6250000,2021,117,Central Asia
-South Sudan,south-sudan,6170000,2023,118,Africa
-Norway,norway,6090000,2022,119,Europe
-"Korea, North",korea-north,6000000,2021,120,East and Southeast Asia
-Georgia,georgia,5910000,2023,121,Central Asia
-"Congo, Republic of the",congo-republic-of-the,5870000,2023,122,Africa
-Ireland,ireland,5760000,2023,123,Europe
-Mauritania,mauritania,5360000,2022,124,Africa
-Mongolia,mongolia,4840000,2023,125,East and Southeast Asia
-Papua New Guinea,papua-new-guinea,4820000,2021,126,East and Southeast Asia
-Laos,laos,4820000,2021,127,East and Southeast Asia
-Uruguay,uruguay,4800000,2023,128,South America
-Qatar,qatar,4700000,2023,129,Middle East
-Croatia,croatia,4560000,2023,130,Europe
-Botswana,botswana,4440000,2023,131,Africa
-Lebanon,lebanon,4290000,2021,132,Middle East
-West Bank,west-bank,4150000,2023,133,Middle East
-Gaza Strip,gaza-strip,4150000,2023,134,Middle East
-Puerto Rico,puerto-rico,4040000,2023,135,Central America and the Caribbean
-Moldova,moldova,4010000,2023,136,Europe
-Armenia,armenia,3960000,2023,137,Central Asia
-Lithuania,lithuania,3920000,2023,138,Europe
-Bosnia and Herzegovina,bosnia-and-herzegovina,3870000,2023,139,Europe
-Jamaica,jamaica,3270000,2023,140,Central America and the Caribbean
-Gabon,gabon,3000000,2022,141,Africa
-Guinea-Bissau,guinea-bissau,2760000,2023,142,Africa
-Slovenia,slovenia,2730000,2023,143,Europe
-"Gambia, The",gambia-the,2680000,2021,144,Africa
-Albania,albania,2610000,2023,145,Europe
-Namibia,namibia,2600000,2023,146,Africa
-Bahrain,bahrain,2420000,2023,147,Middle East
-Latvia,latvia,2260000,2023,148,Europe
-Mauritius,mauritius,2100000,2023,149,Africa
-Estonia,estonia,2050000,2023,150,Europe
-Trinidad and Tobago,trinidad-and-tobago,2020000,2023,151,Central America and the Caribbean
-North Macedonia,north-macedonia,1920000,2023,152,Europe
-Central African Republic,central-african-republic,1830000,2021,153,Africa
-Eritrea,eritrea,1800000,2021,154,Africa
-Kosovo,kosovo,1777859,2022,155,Europe
-Liberia,liberia,1650000,2021,156,Africa
-Lesotho,lesotho,1600000,2023,157,Africa
-Timor-Leste,timor-leste,1560000,2023,158,East and Southeast Asia
-Eswatini,eswatini,1520000,2023,159,Africa
-Cyprus,cyprus,1430000,2023,160,Europe
-Macau,macau,1370000,2023,161,East and Southeast Asia
-Montenegro,montenegro,1310000,2023,162,Europe
-Fiji,fiji,992000,2021,163,Australia and Oceania
-Suriname,suriname,989000,2023,164,South America
-Luxembourg,luxembourg,961000,2023,165,Europe
-Comoros,comoros,934000,2023,166,Africa
-Equatorial Guinea,equatorial-guinea,893000,2022,167,Africa
-Guyana,guyana,856000,2021,168,South America
-Bhutan,bhutan,752000,2023,169,South Asia
-Malta,malta,749000,2023,170,Europe
-Maldives,maldives,745000,2023,171,South Asia
-Cabo Verde,cabo-verde,590000,2023,172,Africa
-Djibouti,djibouti,574000,2023,173,Africa
-Brunei,brunei,541000,2023,174,East and Southeast Asia
-Iceland,iceland,478000,2023,175,Europe
-Solomon Islands,solomon-islands,474000,2021,176,Australia and Oceania
-"Bahamas, The",bahamas-the,400000,2023,177,Central America and the Caribbean
-French Polynesia,french-polynesia,328000,2022,178,Australia and Oceania
-Barbados,barbados,323000,2022,179,Central America and the Caribbean
-Belize,belize,264000,2021,180,Central America and the Caribbean
-New Caledonia,new-caledonia,260000,2021,181,Australia and Oceania
-Vanuatu,vanuatu,256000,2022,182,Australia and Oceania
-Antigua and Barbuda,antigua-and-barbuda,184000,2021,183,Central America and the Caribbean
-Saint Lucia,saint-lucia,176000,2022,184,Central America and the Caribbean
-Curacao,curacao,172000,2022,185,Central America and the Caribbean
-Seychelles,seychelles,165000,2023,186,Africa
-Sao Tome and Principe,sao-tome-and-principe,152000,2023,187,Africa
-Aruba,aruba,141000,2021,188,Central America and the Caribbean
-Samoa,samoa,134000,2022,189,Australia and Oceania
-Andorra,andorra,126000,2023,190,Europe
-Jersey,jersey,124083,2021,191,Europe
-Grenada,grenada,112000,2022,192,Central America and the Caribbean
-Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,103000,2023,193,Central America and the Caribbean
-Cayman Islands,cayman-islands,100000,2021,194,Central America and the Caribbean
-Guam,guam,98000,2009,195,Australia and Oceania
-Virgin Islands,virgin-islands,80000,2021,196,Central America and the Caribbean
-Guernsey,guernsey,71485,2021,197,Europe
-Kiribati,kiribati,70000,2023,198,Australia and Oceania
-Saint Martin,saint-martin,68840,2012,199,Central America and the Caribbean
-Sint Maarten,sint-maarten,68840,2012,200,Central America and the Caribbean
-Bermuda,bermuda,68000,2021,201,North America
-Greenland,greenland,67000,2021,202,North America
-Tonga,tonga,64000,2021,203,Australia and Oceania
-Faroe Islands,faroe-islands,59000,2021,204,Europe
-Dominica,dominica,57000,2022,205,Central America and the Caribbean
-Saint Kitts and Nevis,saint-kitts-and-nevis,56000,2023,206,Central America and the Caribbean
-Liechtenstein,liechtenstein,50000,2023,207,Europe
-Monaco,monaco,41000,2023,208,Europe
-San Marino,san-marino,41000,2022,209,Europe
-British Virgin Islands,british-virgin-islands,38000,2021,210,Central America and the Caribbean
-Gibraltar,gibraltar,37000,2022,211,Europe
-Anguilla,anguilla,26000,2021,212,Central America and the Caribbean
-Turks and Caicos Islands,turks-and-caicos-islands,25085,2004,213,Central America and the Caribbean
-Palau,palau,24000,2023,214,Australia and Oceania
-"Micronesia, Federated States of",micronesia-federated-states-of,22000,2021,215,Australia and Oceania
-Northern Mariana Islands,northern-mariana-islands,20474,2004,216,Australia and Oceania
-Cook Islands,cook-islands,17000,2021,217,Australia and Oceania
-Marshall Islands,marshall-islands,16000,2021,218,Australia and Oceania
-Nauru,nauru,10000,2021,219,Australia and Oceania
-Tuvalu,tuvalu,9000,2021,220,Australia and Oceania
-Falkland Islands (Islas Malvinas),falkland-islands-islas-malvinas,6000,2021,221,South America
-Montserrat,montserrat,5000,2020,222,Central America and the Caribbean
-"Saint Helena, Ascension, and Tristan da Cunha",saint-helena-ascension-and-tristan-da-cunha,4000,2021,223,Africa
-American Samoa,american-samoa,2250,2009,224,Australia and Oceania
-Wallis and Futuna,wallis-and-futuna,0,2018,225,Australia and Oceania
+﻿name,slug,value,date_of_information,ranking,region,,sq_km
+China,china,1810000000,2023,1,East and Southeast Asia,,1416043270
+India,india,1140000000,2022,2,South Asia,,1409128296
+United States,united-states,386000000,2023,3,North America,,341963408
+Indonesia,indonesia,352000000,2023,4,East and Southeast Asia,,281562465
+Russia,russia,245000000,2022,5,Central Asia,,140820810
+Nigeria,nigeria,224000000,2023,6,Africa,,236747130
+Japan,japan,219000000,2023,7,East and Southeast Asia,,123201945
+Brazil,brazil,213000000,2023,8,South America,,220051512
+Bangladesh,bangladesh,191000000,2023,9,South Asia,,168697184
+Pakistan,pakistan,189000000,2023,10,South Asia,,252363571
+Iran,iran,151000000,2023,11,Middle East,,88386937
+Mexico,mexico,140000000,2023,12,North America,,130739927
+Philippines,philippines,135000000,2023,13,East and Southeast Asia,,118277063
+Vietnam,vietnam,131000000,2023,14,East and Southeast Asia,,105758975
+Thailand,thailand,121000000,2023,15,East and Southeast Asia,,69920998
+South Africa,south-africa,108000000,2023,16,Africa,,
+Egypt,egypt,106000000,2023,17,Africa,,111247248
+Germany,germany,105000000,2023,18,Europe,,84119100
+Turkey (Turkiye),turkey-turkiye,92200000,2023,19,Middle East,,84119531
+Colombia,colombia,87400000,2023,20,South America,,49588357
+United Kingdom,united-kingdom,84300000,2023,21,Europe,,68459055
+"Korea, South",korea-south,83900000,2023,22,East and Southeast Asia,,52081799
+Italy,italy,78500000,2023,23,Europe,,60964931
+France,france,77400000,2023,24,Europe,,68374591
+Ethiopia,ethiopia,71400000,2022,25,Africa,,118550298
+Tanzania,tanzania,70200000,2023,26,Africa,,67462121
+Kenya,kenya,66700000,2023,27,Africa,,58246378
+Burma,burma,65500000,2023,28,East and Southeast Asia,,
+Argentina,argentina,62700000,2023,29,South America,,46994384
+Spain,spain,61200000,2023,30,Europe,,47280433
+Morocco,morocco,55900000,2023,31,Africa,,37387585
+Cote d'Ivoire,cote-divoire,53600000,2023,32,Africa,,29981758
+Saudi Arabia,saudi-arabia,52500000,2023,33,Middle East,,36544431
+Poland,poland,52400000,2023,34,Europe,,38746310
+Algeria,algeria,51500000,2023,35,Africa,,47022473
+Ukraine,ukraine,50300000,2023,36,Europe,,35661826
+Malaysia,malaysia,50100000,2023,37,East and Southeast Asia,,34564810
+"Congo, Democratic Republic of the",congo-democratic-republic-of-the,49800000,2022,38,Africa,,115403027
+Iraq,iraq,45700000,2023,39,Middle East,,42083436
+Uganda,uganda,42100000,2023,40,Africa,,49283041
+Peru,peru,41300000,2023,41,South America,,32600249
+Nepal,nepal,38200000,2021,42,South Asia,,31122387
+Uzbekistan,uzbekistan,37500000,2023,43,Central Asia,,36520593
+Canada,canada,36500000,2023,44,North America,,38794813
+Sudan,sudan,34700000,2022,45,Africa,,50467278
+Ghana,ghana,33400000,2023,46,Africa,,34589092
+Sri Lanka,sri-lanka,30000000,2023,47,South Asia,,21982608
+Taiwan,taiwan,30000000,2023,48,East and Southeast Asia,,
+Australia,australia,29100000,2023,49,Australia and Oceania,,26768598
+Chile,chile,26700000,2023,50,South America,,18664652
+Cameroon,cameroon,26200000,2023,51,Africa,,30966105
+Mali,mali,25900000,2022,52,Africa,,21990607
+Kazakhstan,kazakhstan,25800000,2023,53,Central Asia,,20260006
+Angola,angola,25700000,2023,54,Africa,,37202061
+Madagascar,madagascar,25400000,2023,55,Africa,,29452714
+Burkina Faso,burkina-faso,24700000,2021,56,Africa,,23042199
+Hong Kong,hong-kong,23800000,2023,57,East and Southeast Asia,,
+Romania,romania,23200000,2022,58,Europe,,18148155
+Afghanistan,afghanistan,23000000,2023,59,South Asia,,40121552
+Senegal,senegal,22400000,2023,60,Africa,,18847519
+Netherlands,netherlands,21200000,2023,61,Europe,,17772378
+United Arab Emirates,united-arab-emirates,21200000,2023,62,Middle East,,10032213
+Zambia,zambia,21200000,2023,63,Africa,,20799116
+Guatemala,guatemala,20600000,2023,64,Central America and the Caribbean,,18255216
+Yemen,yemen,20000000,2023,65,Middle East,,32140443
+Cambodia,cambodia,19500000,2022,66,East and Southeast Asia,,17063669
+Venezuela,venezuela,18800000,2022,67,South America,,31250306
+Ecuador,ecuador,18200000,2023,68,South America,,18309984
+Tunisia,tunisia,16400000,2023,69,Africa,,12048847
+Benin,benin,16400000,2023,70,Africa,,14697052
+Syria,syria,15100000,2023,71,Middle East,,
+Zimbabwe,zimbabwe,15000000,2023,72,Africa,,17150352
+Mozambique,mozambique,15000000,2022,73,Africa,,33350954
+Sweden,sweden,14800000,2023,74,Europe,,10589835
+Niger,niger,14200000,2021,75,Africa,,26342784
+Libya,libya,13900000,2022,76,Africa,,7361263
+Guinea,guinea,13800000,2021,77,Africa,,13986179
+Israel,israel,13800000,2022,78,Middle East,,9402617
+Czechia,czechia,13600000,2023,79,Europe,,
+Malawi,malawi,12900000,2023,80,Africa,,21763309
+Rwanda,rwanda,12800000,2023,81,Africa,,13623302
+Portugal,portugal,12800000,2023,82,Europe,,10207177
+Belgium,belgium,12100000,2023,83,Europe,,11977634
+Chad,chad,12100000,2022,84,Africa,,19093595
+Bolivia,bolivia,12000000,2021,85,South America,,12311974
+Belarus,belarus,11800000,2023,86,Europe,,9501451
+Tajikistan,tajikistan,11600000,2021,87,Central Asia,,10394063
+El Salvador,el-salvador,11500000,2022,88,Central America and the Caribbean,,6628702
+Greece,greece,11300000,2023,89,Europe,,10461091
+Austria,austria,11100000,2023,90,Europe,,8967982
+Azerbaijan,azerbaijan,11000000,2023,91,Central Asia,,10650239
+Switzerland,switzerland,10900000,2023,92,Europe,,8860574
+Dominican Republic,dominican-republic,10400000,2023,93,Central America and the Caribbean,,10815857
+Hungary,hungary,10200000,2023,94,Europe,,9855745
+Singapore,singapore,9650000,2023,95,East and Southeast Asia,,6028459
+Somalia,somalia,8840000,2022,96,Africa,,
+Paraguay,paraguay,8670000,2023,97,South America,,7522549
+Burundi,burundi,8650000,2023,98,Africa,,13590102
+Serbia,serbia,8530000,2023,99,Europe,,6652212
+Sierra Leone,sierra-leone,8230000,2021,100,Africa,,9121049
+Kuwait,kuwait,8110000,2023,101,Middle East,,3138355
+Bulgaria,bulgaria,8010000,2023,102,Europe,,6782659
+Honduras,honduras,7920000,2023,103,Central America and the Caribbean,,9529188
+Jordan,jordan,7730000,2023,104,Middle East,,11174024
+Kyrgyzstan,kyrgyzstan,7680000,2023,105,Central Asia,,6172101
+Cuba,cuba,7670000,2023,106,Central America and the Caribbean,,10966038
+Slovakia,slovakia,7630000,2023,107,Europe,,
+Denmark,denmark,7500000,2023,108,Europe,,5973136
+Costa Rica,costa-rica,7440000,2023,109,Central America and the Caribbean,,5265575
+Haiti,haiti,7320000,2021,110,Central America and the Caribbean,,11753943
+Nicaragua,nicaragua,7220000,2023,111,Central America and the Caribbean,,6676948
+Finland,finland,7140000,2023,112,Europe,,5626414
+Togo,togo,7050000,2023,113,Africa,,8917994
+Panama,panama,6980000,2023,114,Central America and the Caribbean,,4470241
+Oman,oman,6980000,2023,115,Middle East,,3901992
+New Zealand,new-zealand,6560000,2023,116,Australia and Oceania,,5161211
+Turkmenistan,turkmenistan,6250000,2021,117,Central Asia,,5744151
+South Sudan,south-sudan,6170000,2023,118,Africa,,12703714
+Norway,norway,6090000,2022,119,Europe,,5509733
+"Korea, North",korea-north,6000000,2021,120,East and Southeast Asia,,
+Georgia,georgia,5910000,2023,121,Central Asia,,4900961
+"Congo, Republic of the",congo-republic-of-the,5870000,2023,122,Africa,,6097665
+Ireland,ireland,5760000,2023,123,Europe,,5233461
+Mauritania,mauritania,5360000,2022,124,Africa,,4328040
+Mongolia,mongolia,4840000,2023,125,East and Southeast Asia,,3281676
+Papua New Guinea,papua-new-guinea,4820000,2021,126,East and Southeast Asia,,10046233
+Laos,laos,4820000,2021,127,East and Southeast Asia,,7953556
+Uruguay,uruguay,4800000,2023,128,South America,,3425330
+Qatar,qatar,4700000,2023,129,Middle East,,2552088
+Croatia,croatia,4560000,2023,130,Europe,,4150116
+Botswana,botswana,4440000,2023,131,Africa,,2450668
+Lebanon,lebanon,4290000,2021,132,Middle East,,5364482
+West Bank,west-bank,4150000,2023,133,Middle East,,
+Gaza Strip,gaza-strip,4150000,2023,134,Middle East,,
+Puerto Rico,puerto-rico,4040000,2023,135,Central America and the Caribbean,,
+Moldova,moldova,4010000,2023,136,Europe,,3599528
+Armenia,armenia,3960000,2023,137,Central Asia,,2976765
+Lithuania,lithuania,3920000,2023,138,Europe,,2628186
+Bosnia and Herzegovina,bosnia-and-herzegovina,3870000,2023,139,Europe,,3798671
+Jamaica,jamaica,3270000,2023,140,Central America and the Caribbean,,2823713
+Gabon,gabon,3000000,2022,141,Africa,,2455105
+Guinea-Bissau,guinea-bissau,2760000,2023,142,Africa,,2132325
+Slovenia,slovenia,2730000,2023,143,Europe,,2097893
+"Gambia, The",gambia-the,2680000,2021,144,Africa,,2523327
+Albania,albania,2610000,2023,145,Europe,,3107100
+Namibia,namibia,2600000,2023,146,Africa,,2803660
+Bahrain,bahrain,2420000,2023,147,Middle East,,1566888
+Latvia,latvia,2260000,2023,148,Europe,,1801246
+Mauritius,mauritius,2100000,2023,149,Africa,,1310504
+Estonia,estonia,2050000,2023,150,Europe,,1193791
+Trinidad and Tobago,trinidad-and-tobago,2020000,2023,151,Central America and the Caribbean,,1408966
+North Macedonia,north-macedonia,1920000,2023,152,Europe,,2135622
+Central African Republic,central-african-republic,1830000,2021,153,Africa,,5650957
+Eritrea,eritrea,1800000,2021,154,Africa,,
+Kosovo,kosovo,1777859,2022,155,Europe,,
+Liberia,liberia,1650000,2021,156,Africa,,5437249
+Lesotho,lesotho,1600000,2023,157,Africa,,2227548
+Timor-Leste,timor-leste,1560000,2023,158,East and Southeast Asia,,1506909
+Eswatini,eswatini,1520000,2023,159,Africa,,1138089
+Cyprus,cyprus,1430000,2023,160,Europe,,1320525
+Macau,macau,1370000,2023,161,East and Southeast Asia,,
+Montenegro,montenegro,1310000,2023,162,Europe,,599849
+Fiji,fiji,992000,2021,163,Australia and Oceania,,951611
+Suriname,suriname,989000,2023,164,South America,,646758
+Luxembourg,luxembourg,961000,2023,165,Europe,,671254
+Comoros,comoros,934000,2023,166,Africa,,900141
+Equatorial Guinea,equatorial-guinea,893000,2022,167,Africa,,1795834
+Guyana,guyana,856000,2021,168,South America,,794099
+Bhutan,bhutan,752000,2023,169,South Asia,,884546
+Malta,malta,749000,2023,170,Europe,,469730
+Maldives,maldives,745000,2023,171,South Asia,,388858
+Cabo Verde,cabo-verde,590000,2023,172,Africa,,611014
+Djibouti,djibouti,574000,2023,173,Africa,,994974
+Brunei,brunei,541000,2023,174,East and Southeast Asia,,491900
+Iceland,iceland,478000,2023,175,Europe,,364036
+Solomon Islands,solomon-islands,474000,2021,176,Australia and Oceania,,726799
+"Bahamas, The",bahamas-the,400000,2023,177,Central America and the Caribbean,,410862
+French Polynesia,french-polynesia,328000,2022,178,Australia and Oceania,,
+Barbados,barbados,323000,2022,179,Central America and the Caribbean,,304139
+Belize,belize,264000,2021,180,Central America and the Caribbean,,415789
+New Caledonia,new-caledonia,260000,2021,181,Australia and Oceania,,
+Vanuatu,vanuatu,256000,2022,182,Australia and Oceania,,
+Antigua and Barbuda,antigua-and-barbuda,184000,2021,183,Central America and the Caribbean,,102634
+Saint Lucia,saint-lucia,176000,2022,184,Central America and the Caribbean,,
+Curacao,curacao,172000,2022,185,Central America and the Caribbean,,
+Seychelles,seychelles,165000,2023,186,Africa,,98187
+Sao Tome and Principe,sao-tome-and-principe,152000,2023,187,Africa,,223561
+Aruba,aruba,141000,2021,188,Central America and the Caribbean,,
+Samoa,samoa,134000,2022,189,Australia and Oceania,,208853
+Andorra,andorra,126000,2023,190,Europe,,
+Jersey,jersey,124083,2021,191,Europe,,
+Grenada,grenada,112000,2022,192,Central America and the Caribbean,,114621
+Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,103000,2023,193,Central America and the Caribbean,,
+Cayman Islands,cayman-islands,100000,2021,194,Central America and the Caribbean,,
+Guam,guam,98000,2009,195,Australia and Oceania,,
+Virgin Islands,virgin-islands,80000,2021,196,Central America and the Caribbean,,
+Guernsey,guernsey,71485,2021,197,Europe,,
+Kiribati,kiribati,70000,2023,198,Australia and Oceania,,
+Saint Martin,saint-martin,68840,2012,199,Central America and the Caribbean,,
+Sint Maarten,sint-maarten,68840,2012,200,Central America and the Caribbean,,
+Bermuda,bermuda,68000,2021,201,North America,,
+Greenland,greenland,67000,2021,202,North America,,
+Tonga,tonga,64000,2021,203,Australia and Oceania,,
+Faroe Islands,faroe-islands,59000,2021,204,Europe,,
+Dominica,dominica,57000,2022,205,Central America and the Caribbean,,
+Saint Kitts and Nevis,saint-kitts-and-nevis,56000,2023,206,Central America and the Caribbean,,
+Liechtenstein,liechtenstein,50000,2023,207,Europe,,
+Monaco,monaco,41000,2023,208,Europe,,
+San Marino,san-marino,41000,2022,209,Europe,,
+British Virgin Islands,british-virgin-islands,38000,2021,210,Central America and the Caribbean,,
+Gibraltar,gibraltar,37000,2022,211,Europe,,
+Anguilla,anguilla,26000,2021,212,Central America and the Caribbean,,
+Turks and Caicos Islands,turks-and-caicos-islands,25085,2004,213,Central America and the Caribbean,,
+Palau,palau,24000,2023,214,Australia and Oceania,,
+"Micronesia, Federated States of",micronesia-federated-states-of,22000,2021,215,Australia and Oceania,,99603
+Northern Mariana Islands,northern-mariana-islands,20474,2004,216,Australia and Oceania,,51118
+Cook Islands,cook-islands,17000,2021,217,Australia and Oceania,,
+Marshall Islands,marshall-islands,16000,2021,218,Australia and Oceania,,
+Nauru,nauru,10000,2021,219,Australia and Oceania,,
+Tuvalu,tuvalu,9000,2021,220,Australia and Oceania,,
+Falkland Islands (Islas Malvinas),falkland-islands-islas-malvinas,6000,2021,221,South America,,
+Montserrat,montserrat,5000,2020,222,Central America and the Caribbean,,
+"Saint Helena, Ascension, and Tristan da Cunha",saint-helena-ascension-and-tristan-da-cunha,4000,2021,223,Africa,,
+American Samoa,american-samoa,2250,2009,224,Australia and Oceania,,
+Wallis and Futuna,wallis-and-futuna,0,2018,225,Australia and Oceania,,
