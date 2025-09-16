@@ -10,24 +10,24 @@ output:
 ```{r}
 rm(list = ls())
 
-africaLink="https://github.com/CienciaDeDatosEspacial/dataSets/raw/refs/heads/main/WORLD/africa_8857.gpkg"
+WorldLink="https://github.com/lcampos2111/Tarea-1/raw/refs/heads/main/World_8857.gpkg/"
 library(sf)
-st_layers(africaLink)
+st_layers(WorldLink)
 ```
 
 ## Reading some layers:
 
 ```{r, message=FALSE}
-africa <- st_read(africaLink, layer = "continent")
-africaPopu_ddm <- st_read(africaLink, layer = "population_ddm")
-africaPopu_psm <- st_read(africaLink, layer = "population_psm")
+World <- st_read(WorldLink, layer = "continent")
+WorldMob_ddm <- st_read(WorldLink, layer = "value_ddm")
+WorldMob_psm <- st_read(WorldLink, layer = "value_psm")
 
 ```
 
 ## Checking CRS
 
 ```{r}
-st_crs(africa)$epsg
+st_crs(World)$epsg
 ```
 
 # THE BASE
@@ -37,9 +37,9 @@ library(scales)
 
 ggplot() +
   #call map
-  geom_sf(data = africa) + 
+  geom_sf(data = World) + 
   # adjust datum 
-  coord_sf(datum = st_crs(africa)) + 
+  coord_sf(datum = st_crs(World)) + 
   # custom X and Y axes
   scale_x_continuous(labels = label_number(scale = 1/1000, suffix = " km")) +
   scale_y_continuous(labels = label_number(scale = 1/1000, suffix = " km")) +
@@ -50,14 +50,14 @@ ggplot() +
 ```{r}
 ggplot() + theme_light() +
   #base
-  geom_sf(data = africa,fill="white",color="grey80") +
+  geom_sf(data = World,fill="white",color="grey80") +
   # layer
-  geom_sf(data=africaPopu_ddm,
+  geom_sf(data=WorldMob_ddm,
           alpha=0.1,#transparancy
           shape=20,
           size=1,
           color="red")+
-  coord_sf(datum = st_crs(africa)) # at the end of maps
+  coord_sf(datum = st_crs(World)) # at the end of maps
   
 ```
 # DDM - interactive
@@ -65,7 +65,7 @@ ggplot() + theme_light() +
 ```{r}
 library(leaflet)
 # needs geographic CRS
-ddm_4326 <- st_transform(africaPopu_ddm, crs = 4326)
+ddm_4326 <- st_transform(WorldMob_ddm, crs = 4326)
 
 leaflet() %>%
   addTiles() %>%  # base map
@@ -92,19 +92,19 @@ leaflet() %>%
 ```{r}
 ggplot() + theme_light() +
   #base
-  geom_sf(data = africa,fill="white",color="grey80") +
+  geom_sf(data = World,fill="white",color="grey80") +
   # layer
-  geom_sf(data=africaPopu_psm,
+  geom_sf(data=WorldMob_psm,
           shape=20,
           color="red",aes(size=size))+
-  coord_sf(datum = st_crs(africa)) # at the end of maps
+  coord_sf(datum = st_crs(World)) # at the end of maps
   
 ```
 # PSM - interactive
 
 ```{r}
 # CRS for leaflet
-psm_4326 <- st_transform(africaPopu_psm, crs = 4326)
+psm_4326 <- st_transform(WorldMob_psm, crs = 4326)
 
 
 leaflet() %>%
@@ -124,9 +124,9 @@ leaflet() %>%
 ```{r}
 ggplot() + theme_light() +
   #base
-  geom_sf(data=africa,
+  geom_sf(data=World,
           aes(fill=population_density_FJ5_cat))+
-  coord_sf(datum = st_crs(africa)) +
+  coord_sf(datum = st_crs(World)) +
   scale_fill_brewer(direction = 1,palette = 'RdBu')
   
 
@@ -136,7 +136,7 @@ ggplot() + theme_light() +
 # CHORO - interactive
 
 ```{r}
-choro_4326 <- st_transform(africa, crs = 4326)
+choro_4326 <- st_transform(World, crs = 4326)
 #needed
 choro_4326$population_density_FJ5_cat=ordered(choro_4326$population_density_FJ5_cat)
 # First, create a color palette for your categorical variable
@@ -195,7 +195,7 @@ addPolygons(
       icon = "fa-home", 
       title = "Reset to Africa View",
       onClick = JS(sprintf("function(btn, map){ map.setView([%f, %f], 3); }", 
-                          africa_center[2], africa_center[1]))
+                          World_center[2], World_center[1]))
     )
   )
 ```
